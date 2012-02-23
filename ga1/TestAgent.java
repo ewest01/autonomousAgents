@@ -20,6 +20,7 @@ public class TestAgent extends Agent_F {
   // this function will be called automatically by the environment when agents are too
   // close to each other; needs to return true if the agent is fighting vs false if not
   // add your decision-making for fighting here
+  // this is a change
   public boolean fight() {
     return true;
   }
